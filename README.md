@@ -38,5 +38,4 @@ The goal is to demonstrate how **Computer Vision + Deep Learning** can be applie
 - **Computer Vision:** Image preprocessing & feature extraction  
 
 
-│── requirements.txt
-│── README.md
+
